@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 20859280adf7194944455f0ffccc473f5a912d00 IvanBF9 <ivanbraga@outlook.fr> 1576595440 +0100	commit (initial): first commit
+20859280adf7194944455f0ffccc473f5a912d00 20859280adf7194944455f0ffccc473f5a912d00 IvanBF9 <ivanbraga@outlook.fr> 1576667379 +0100	checkout: moving from master to generateFriend
+20859280adf7194944455f0ffccc473f5a912d00 c0aced7393a169ca0bceb201e1f4e2af78fada58 IvanBF9 <ivanbraga@outlook.fr> 1576667539 +0100	commit: generation entity
+c0aced7393a169ca0bceb201e1f4e2af78fada58 c0aced7393a169ca0bceb201e1f4e2af78fada58 IvanBF9 <ivanbraga@outlook.fr> 1576746660 +0100	checkout: moving from generateFriend to website
+c0aced7393a169ca0bceb201e1f4e2af78fada58 6a6ee1f01eb66001968d814d27809ce1db5fc145 IvanBF9 <ivanbraga@outlook.fr> 1576747393 +0100	commit: premierupload
+6a6ee1f01eb66001968d814d27809ce1db5fc145 20859280adf7194944455f0ffccc473f5a912d00 IvanBF9 <ivanbraga@outlook.fr> 1576754257 +0100	checkout: moving from website to master
+20859280adf7194944455f0ffccc473f5a912d00 20859280adf7194944455f0ffccc473f5a912d00 IvanBF9 <ivanbraga@outlook.fr> 1576754569 +0100	checkout: moving from master to blog
+20859280adf7194944455f0ffccc473f5a912d00 eb5bed46144acb4130bdd6d50bcfc4fd25762ac2 IvanBF9 <ivanbraga@outlook.fr> 1576765108 +0100	commit: Test1
+eb5bed46144acb4130bdd6d50bcfc4fd25762ac2 b4ab65b57043e1341ce913334b3a4a6b36250127 IvanBF9 <ivanbraga@outlook.fr> 1576772757 +0100	commit: ahah
+b4ab65b57043e1341ce913334b3a4a6b36250127 053390bebb2a6e43a6b9577952332cdf916a1e29 IvanBF9 <ivanbraga@outlook.fr> 1576835864 +0100	commit: addParam
+053390bebb2a6e43a6b9577952332cdf916a1e29 0cf76230565599011a5f9e72a0803c9fac0b1331 IvanBF9 <ivanbraga@outlook.fr> 1576848993 +0100	commit: Ajout des pages du vendor(regoster, ...)
+0cf76230565599011a5f9e72a0803c9fac0b1331 c93c18b8332ba0ff7ac50dc2ecf38b3b9675ad6f IvanBF9 <ivanbraga@outlook.fr> 1576853769 +0100	commit: addtable
+c93c18b8332ba0ff7ac50dc2ecf38b3b9675ad6f 82af840c5f8059ffa3cac1a723ef6fd9abf69253 IvanBF9 <ivanbraga@outlook.fr> 1576859383 +0100	commit: c'est bon
+82af840c5f8059ffa3cac1a723ef6fd9abf69253 82af840c5f8059ffa3cac1a723ef6fd9abf69253 IvanBF9 <ivanbraga@outlook.fr> 1578042242 +0100	checkout: moving from blog to blogv2
+82af840c5f8059ffa3cac1a723ef6fd9abf69253 0b29bb612eec7d81cc9901a97ac94944d036504a IvanBF9 <ivanbraga@outlook.fr> 1578046659 +0100	commit: ImageUpload
+0b29bb612eec7d81cc9901a97ac94944d036504a f885949188412b50249064447b66ee37cef27b67 IvanBF9 <ivanbraga@outlook.fr> 1578047753 +0100	commit: FixAddAuthorList
+f885949188412b50249064447b66ee37cef27b67 5fb30d26ffaed2c47d9e81c3139d436bf251dd0b IvanBF9 <ivanbraga@outlook.fr> 1578049298 +0100	commit: DernierArticleAffichage
+5fb30d26ffaed2c47d9e81c3139d436bf251dd0b f2541e892fbfe93769d0ed293574c30dbe5d1dd8 IvanBF9 <ivanbraga@outlook.fr> 1578061180 +0100	commit: AJAX
+f2541e892fbfe93769d0ed293574c30dbe5d1dd8 f2541e892fbfe93769d0ed293574c30dbe5d1dd8 IvanBF9 <ivanbraga@outlook.fr> 1578067041 +0100	checkout: moving from blogv2 to blogv3
+f2541e892fbfe93769d0ed293574c30dbe5d1dd8 6a5f788c05274e5a2d2cf9c319266a399c5aa09c IvanBF9 <ivanbraga@outlook.fr> 1578067064 +0100	commit: AjoutComm
+6a5f788c05274e5a2d2cf9c319266a399c5aa09c 884b3a5ffc8d0f4cef521bd5576e0eb75fb738cd IvanBF9 <ivanbraga@outlook.fr> 1578305128 +0100	commit: CommentsUp
+884b3a5ffc8d0f4cef521bd5576e0eb75fb738cd 010f827006def40e9599361df58c78d993cd3967 IvanBF9 <ivanbraga@outlook.fr> 1578311901 +0100	commit: DebutComments
+010f827006def40e9599361df58c78d993cd3967 5d88c82550ab34f229ed85e5e5273aa65411a358 IvanBF9 <ivanbraga@outlook.fr> 1578325899 +0100	commit: AddComForPost
+5d88c82550ab34f229ed85e5e5273aa65411a358 20859280adf7194944455f0ffccc473f5a912d00 IvanBF9 <ivanbraga@outlook.fr> 1578476756 +0100	checkout: moving from blogv3 to master
+20859280adf7194944455f0ffccc473f5a912d00 5d88c82550ab34f229ed85e5e5273aa65411a358 IvanBF9 <ivanbraga@outlook.fr> 1578476955 +0100	checkout: moving from master to blogv3
+5d88c82550ab34f229ed85e5e5273aa65411a358 20859280adf7194944455f0ffccc473f5a912d00 IvanBF9 <ivanbraga@outlook.fr> 1578477773 +0100	checkout: moving from blogv3 to master
+20859280adf7194944455f0ffccc473f5a912d00 6789137362eceb8568170af8d646d93286a17276 IvanBF9 <ivanbraga@outlook.fr> 1578478596 +0100	commit: test
+6789137362eceb8568170af8d646d93286a17276 5d88c82550ab34f229ed85e5e5273aa65411a358 IvanBF9 <ivanbraga@outlook.fr> 1578478602 +0100	checkout: moving from master to blogv3
+5d88c82550ab34f229ed85e5e5273aa65411a358 6789137362eceb8568170af8d646d93286a17276 IvanBF9 <ivanbraga@outlook.fr> 1578479406 +0100	checkout: moving from blogv3 to master
+6789137362eceb8568170af8d646d93286a17276 5d88c82550ab34f229ed85e5e5273aa65411a358 IvanBF9 <ivanbraga@outlook.fr> 1578479436 +0100	checkout: moving from master to blogv3
+5d88c82550ab34f229ed85e5e5273aa65411a358 5d88c82550ab34f229ed85e5e5273aa65411a358 IvanBF9 <ivanbraga@outlook.fr> 1578479450 +0100	checkout: moving from blogv3 to blogv3bis
+5d88c82550ab34f229ed85e5e5273aa65411a358 6789137362eceb8568170af8d646d93286a17276 IvanBF9 <ivanbraga@outlook.fr> 1578479473 +0100	checkout: moving from blogv3bis to master
+6789137362eceb8568170af8d646d93286a17276 a50f4862554653c549dfe6527cf15555afc9dcd1 IvanBF9 <ivanbraga@outlook.fr> 1578479489 +0100	merge blogv3: Merge made by the 'recursive' strategy.
